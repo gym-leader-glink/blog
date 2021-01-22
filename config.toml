@@ -87,7 +87,7 @@ copyright = "Copyright &copy; 2021 Gym.Leader.Glink"
 
 # Instagram feed
 [params.instafeed]
-enable = false
+enable = true
 
 # cookies
 [params.cookies]
