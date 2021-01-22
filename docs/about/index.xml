@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Gym Leader Glink Blog</title>
-    <link>https://gym-leader-glink.github.io/blog/about/</link>
+    <link>http://gym.leader.glink.blog/about/</link>
     <description>Recent content in About on Gym Leader Glink Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2021 13:23:10 +0600</lastBuildDate><atom:link href="https://gym-leader-glink.github.io/blog/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jan 2021 13:23:10 +0600</lastBuildDate><atom:link href="http://gym.leader.glink.blog/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
