@@ -1,5 +1,5 @@
 # default config
-baseurl = "http://gym.leader.glink.blog/"
+baseurl = "https://gym.leader.glink.blog/"
 languageCode = "en-us"
 title = "Gym Leader Glink Blog"
 theme = "parsa-hugo"

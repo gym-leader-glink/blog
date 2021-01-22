@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gym Leader Glink Blog</title>
-    <link>http://gym.leader.glink.blog/categories/</link>
+    <link>https://gym.leader.glink.blog/categories/</link>
     <description>Recent content in Categories on Gym Leader Glink Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2021 13:23:10 +0600</lastBuildDate><atom:link href="http://gym.leader.glink.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jan 2021 13:23:10 +0600</lastBuildDate><atom:link href="https://gym.leader.glink.blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fitness</title>
-      <link>http://gym.leader.glink.blog/categories/fitness/</link>
+      <link>https://gym.leader.glink.blog/categories/fitness/</link>
       <pubDate>Fri, 22 Jan 2021 13:23:10 +0600</pubDate>
       
-      <guid>http://gym.leader.glink.blog/categories/fitness/</guid>
+      <guid>https://gym.leader.glink.blog/categories/fitness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>http://gym.leader.glink.blog/categories/food/</link>
+      <link>https://gym.leader.glink.blog/categories/food/</link>
       <pubDate>Fri, 22 Jan 2021 13:23:10 +0600</pubDate>
       
-      <guid>http://gym.leader.glink.blog/categories/food/</guid>
+      <guid>https://gym.leader.glink.blog/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health</title>
-      <link>http://gym.leader.glink.blog/categories/health/</link>
+      <link>https://gym.leader.glink.blog/categories/health/</link>
       <pubDate>Fri, 22 Jan 2021 13:23:10 +0600</pubDate>
       
-      <guid>http://gym.leader.glink.blog/categories/health/</guid>
+      <guid>https://gym.leader.glink.blog/categories/health/</guid>
       <description></description>
     </item>
     
