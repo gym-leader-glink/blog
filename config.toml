@@ -81,7 +81,8 @@ address = "Berlin, Germany"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
-google_analitycs_id = "G-21E0P5YFJE"
+google_measurement_id = "G-21E0P5YFJE"
+
 # copyright
 copyright = "Copyright &copy; 2021 Gym.Leader.Glink"
 
