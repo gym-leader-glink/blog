@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepages on Gym Leader Glink Blog</title>
+    <link>http://gym.leader.glink.blog/homepage/</link>
+    <description>Recent content in Homepages on Gym Leader Glink Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://gym.leader.glink.blog/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fitness Blog</title>
+      <link>http://gym.leader.glink.blog/homepage/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gym.leader.glink.blog/homepage/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
