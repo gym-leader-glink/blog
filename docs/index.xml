@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gym Leader Glink Blog</title>
-    <link>http://gym.leader.glink.blog/</link>
+    <link>https://gym-leader-glink.github.io/blog/</link>
     <description>Recent content on Gym Leader Glink Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2021 13:23:10 +0600</lastBuildDate><atom:link href="http://gym.leader.glink.blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jan 2021 13:23:10 +0600</lastBuildDate><atom:link href="https://gym-leader-glink.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Healthy Protein Pancakes</title>
-      <link>http://gym.leader.glink.blog/healthy-oat-pancakes/</link>
+      <link>https://gym-leader-glink.github.io/blog/healthy-oat-pancakes/</link>
       <pubDate>Fri, 22 Jan 2021 13:23:10 +0600</pubDate>
       
-      <guid>http://gym.leader.glink.blog/healthy-oat-pancakes/</guid>
+      <guid>https://gym-leader-glink.github.io/blog/healthy-oat-pancakes/</guid>
       <description>Oat Pancakes Benefits •	There is no added sugar •	Sugar causes your hormones to fluctuate in unnatural ways.</description>
     </item>
     
     <item>
       <title>Fitness Blog</title>
-      <link>http://gym.leader.glink.blog/homepage/home/</link>
+      <link>https://gym-leader-glink.github.io/blog/homepage/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gym.leader.glink.blog/homepage/home/</guid>
+      <guid>https://gym-leader-glink.github.io/blog/homepage/home/</guid>
       <description></description>
     </item>
     
