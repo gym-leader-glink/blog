@@ -67,7 +67,7 @@ layout = "2"
 # Meta data
 description = "This is meta description"
 # Preloader
-preloader = true
+preloader = false
 # search
 search = true
 # about author
@@ -88,7 +88,7 @@ copyright = "Copyright &copy; 2021 Gym.Leader.Glink"
 
 # Instagram feed
 [params.instafeed]
-enable = false
+enable = true
 
 # cookies
 [params.cookies]
