@@ -21,9 +21,7 @@ categories:
 
 tags:
 
-- "Photos"
-
-- "Food"
+- "Pancake"
 
 ---
 

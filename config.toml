@@ -109,6 +109,9 @@ url = "https://www.facebook.com/gabriel.cerrato.399/"
 icon = "ti-twitter-alt"
 url = "https://twitter.com/GLinkVGC"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 # [[params.social]]
 # icon = "ti-github"
 # url = "#"
